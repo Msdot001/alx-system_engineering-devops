@@ -14,4 +14,8 @@ This project provides an in-depth understanding of Input/Output (I/O) redirectio
 
 4. Last lines of a file: Running the command will display the last 10 lines of the file.
 
-5. I'd prefer the first ones actually: This script will output the first 10 lines of the file  
+5. I'd prefer the first ones actually: This script will output the first 10 lines of the file
+
+6. Line #2 : This command is used to get a specific line from a file. It combine both the "head" and "tail" command
+
+7.   

@@ -12,4 +12,6 @@ This project provides an in-depth understanding of Input/Output (I/O) redirectio
 
 3. What about 2: Runing  the command inside this file, will be used two display the content from two file in order of their arrangement.
 
-4. Last lines of a file: Running the command will display the last 10 lines of the files.  
+4. Last lines of a file: Running the command will display the last 10 lines of the file.
+
+5. I'd prefer the first ones actually: This script will output the first 10 lines of the file  

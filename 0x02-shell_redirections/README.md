@@ -7,4 +7,7 @@ This project provides an in-depth understanding of Input/Output (I/O) redirectio
 0. Hello World: The echo command is used to print/display a standard output on the termial.
 
 1. Confused smiley: This task will allow you to learn the usage of escape key to commit some character.
- 
+
+2. Lets;s display a file: The command in this file allow you to see th comment in a file, basically by using the "cat" along with the file path
+
+  

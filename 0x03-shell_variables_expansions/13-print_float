@@ -1,2 +1,2 @@
 #!/bin/bash
-echo NUM.{00..99}
+printf "%0.2f\n" $NUM
